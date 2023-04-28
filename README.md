@@ -1,0 +1,2 @@
+# realit
+hakkımda gerçekler 
